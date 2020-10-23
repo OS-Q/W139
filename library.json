@@ -1,0 +1,19 @@
+{
+    "name":"TFT",
+    "description": "A TFT and ePaper SPI graphics library with optimisation for ESP8266, ESP32 and STM32",
+    "keywords": [
+        "Arduino, tft, ePaper, display, STM32, ESP8266, NodeMCU, ESP32, M5Stack, ILI9341, ST7735, ILI9163, S6D02A1, ILI9486, ST7789, RM68140",
+    ],
+    "version": "2.3.2",
+    "authors": {
+        "name":  "Qitas",
+        "email": "qitas@qitas.cn",
+        "url": "http://www.OS-Q.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OS-Q/D055.git"
+    },
+    "frameworks": "arduino",
+    "platforms":" "
+}
